@@ -17,8 +17,10 @@ After installing Python and Flask, you will need to install
 
 pip install nltk 
 Nltk - Natural Language Processing with Python
+
 pip install newspaper3k
 Newspaper3k - Python library used for Web Scraping articles
+
 pip install sklearn
 Sklearn - useful library for machine learning in Python
 
